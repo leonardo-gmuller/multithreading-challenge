@@ -51,7 +51,7 @@ A requisição que retornar primeiro será exibida no terminal. A outra resposta
 1. Clone este repositório:
 
 ```bash
-   git clone https://github.com/seu-usuario/multithreading-challenge.git
+   git clone https://github.com/leonardo-gmuller/multithreading-challenge.git
 ```
 
 2. Navegue até o diretório do projeto:
